@@ -34,5 +34,5 @@ This project is based on: https://github.com/patrickloeber/snake-ai-pytorch
 <br>
 
 ## Authors: 
- - João Lourenço
- - Miguel Faria
+- Miguel Faria
+- João Lourenço
