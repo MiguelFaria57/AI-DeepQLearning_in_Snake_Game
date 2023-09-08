@@ -29,7 +29,7 @@ Alternatively, if you just want to run the code, run the file:
 	src/snake_game_human.py - to test the game by yourself
 
 ### Note
-This project is based on: https://github.com/patrickloeber/snake-ai-pytorch
+This project was based on: https://github.com/patrickloeber/snake-ai-pytorch
 
 <br>
 
